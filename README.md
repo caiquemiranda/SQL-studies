@@ -1,2 +1,3 @@
-# SQL-studies
-SQL-studies
+# studies-sql
+studies-sql
+
