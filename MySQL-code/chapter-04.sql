@@ -1,2 +1,0 @@
--- TIPO DE DADOS
-
