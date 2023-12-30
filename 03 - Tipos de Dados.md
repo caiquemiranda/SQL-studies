@@ -1,4 +1,4 @@
-# SQL: Tipos de Dados
+## SQL: Tipos de Dados
 
 ### Seção 3.1: DECIMAL e NUMERIC
 

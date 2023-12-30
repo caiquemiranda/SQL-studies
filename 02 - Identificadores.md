@@ -1,10 +1,10 @@
-# SQL: Identificadores
+## SQL: Identificadores
 
-## Introdução
+### Introdução
 
 Este tópico explora os identificadores, que são as regras de sintaxe para nomes de tabelas, colunas e outros objetos em um banco de dados. O objetivo é fornecer exemplos que abranjam variações utilizadas por diferentes implementações de SQL, identificando, quando possível, a implementação específica mencionada nos exemplos.
 
-## Seção 2.1: Identificadores não citados
+### Seção 2.1: Identificadores não citados
 
 Identificadores não citados são aqueles que não são envolvidos por aspas ou colchetes. Eles podem usar letras (a-z), dígitos (0-9) e sublinhado (_), sendo obrigatório começar com uma letra. Dependendo da implementação do SQL e das configurações do banco de dados, outros caracteres podem ser permitidos, alguns até como o primeiro caractere. Abaixo, exemplos de implementações específicas:
 
