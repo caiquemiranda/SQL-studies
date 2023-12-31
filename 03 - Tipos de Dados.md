@@ -26,7 +26,7 @@ NUMERIC(precision [, scale])
 **NUMERIC:**
 
 - Calculando a média ponderada de produtos com 4 casas decimais:
-```sql
+  ```sql
   SELECT CAST((100 *0.25 + 150* 0.75) / 2 AS NUMERIC(6,4) -- retorna 118.7500
   ```
 
